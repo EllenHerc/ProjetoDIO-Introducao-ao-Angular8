@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Back-end start
 
-Dependências: node.js
+Dependencies: node.js
 
 Run in servers folder `npm install` and `node server.js` 
 
