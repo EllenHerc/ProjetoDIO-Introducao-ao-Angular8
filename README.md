@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Dependências: node.js
 
-Run `npm install` and `node server.js`
+Run in servers folder `npm install` and `node server.js` 
 
 ## Development server
 
